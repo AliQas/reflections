@@ -1,3 +1,7 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 
 A: When you initialise a repo, Git creates a repo within the folder that you've specificed. You need to do this in order to create a repo from scratch. Once done, you can start iterating on files within your repo.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: The staging area is the space 'in-between' the working directory and the repository. It offers a check-point for the user to know which files are going to be included in the next commit.

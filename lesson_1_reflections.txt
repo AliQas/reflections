@@ -27,6 +27,8 @@ Q: Now that you have your workspace set up, what do you want to try using Git fo
 
 A: I'd like to use it to save versions of my project on Git Hub.
 
+I'm adding a line here to practice git add and git commit
+
 
 
 

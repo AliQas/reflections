@@ -5,3 +5,5 @@ A: When you initialise a repo, Git creates a repo within the folder that you've 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 A: The staging area is the space 'in-between' the working directory and the repository. It offers a check-point for the user to know which files are going to be included in the next commit.
+
+I'm adding a line here to practice git add and git commit

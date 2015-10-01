@@ -1,0 +1,3 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: When you initialise a repo, Git creates a repo within the folder that you've specificed. You need to do this in order to create a repo from scratch. Once done, you can start iterating on files within your repo.

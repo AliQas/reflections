@@ -17,3 +17,7 @@ A: It can serve as a 'backup' for the previous version of the GitHub repo. It ca
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A: Using some sort of project management software such as BaseCamp or Trello. Easier: Instant communication. Harder: Sharing and comparing code.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A: You want to use a separate branch when you're experimenting on a new feature or collaborating with others on a project. The benefit of doing so is that your main code is safe from any issues with your new branch. You can check to see if the new code in your branch fits and then merge with master.

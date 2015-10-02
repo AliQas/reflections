@@ -13,3 +13,7 @@ A: Forks are a way of 'cloning' repos on GitHub while giving credit to the origi
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A: It can serve as a 'backup' for the previous version of the GitHub repo. It can also be a local source with which to compare new changes to the local (master) repo.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A: Using some sort of project management software such as BaseCamp or Trello. Easier: Instant communication. Harder: Sharing and comparing code.

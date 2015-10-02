@@ -9,3 +9,7 @@ A: Auto updates may lead to code that isn't ready for public consumption being p
 Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 A: Forks are a way of 'cloning' repos on GitHub while giving credit to the original author. Clones refer to copies of a repo. Branches are subsets of the master codebase, usually used for experiments or trying out new features.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A: It can serve as a 'backup' for the previous version of the GitHub repo. It can also be a local source with which to compare new changes to the local (master) repo.

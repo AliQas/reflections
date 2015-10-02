@@ -6,3 +6,6 @@ Q: Why might you want to always pull changes manually rather than having Git aut
 
 A: Auto updates may lead to code that isn't ready for public consumption being pushed to GitHub
 
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A: Forks are a way of 'cloning' repos on GitHub while giving credit to the original author. Clones refer to copies of a repo. Branches are subsets of the master codebase, usually used for experiments or trying out new features.
